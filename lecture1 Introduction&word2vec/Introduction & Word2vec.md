@@ -1,4 +1,4 @@
-# Introduction & Word2vec
+# Lecture 01: Introduction & Word2vec
 
 
 
@@ -70,12 +70,6 @@ $$
 * 但这个包实际上在深度学习中**不常用**
 
 [Gensim word vector visualization notebook](https://www.kaggle.com/code/yixuanzhou94/gensim-word-vector-visualization/notebook)
-
-
-
-### :scorpion: Skip-gram
-
-
 
 
 
